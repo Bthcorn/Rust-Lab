@@ -30,7 +30,6 @@ pub struct TagPoint {
 }
 
 
-// get arg maybe using just like saiffa
 pub fn get_args() -> MyResult<Config> {
     let matches
         = App::new("point_record")

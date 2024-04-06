@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "doubles"
+name = "quote"
 version = "0.1.0"
