@@ -107,3 +107,5 @@ fn d_convert(b: u8) -> u8 {
     };
     new
 }
+
+//clear understand!!!
